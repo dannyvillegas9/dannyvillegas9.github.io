@@ -1,0 +1,15 @@
+body{font-family: 'Tomorrow', sans-serif; font-size: 1.1em; background-color :black;} 
+h1,h2{text-align: center; color:gold;}
+h1{font-family: 'Tomorrow', sans-serif; font-size: 5em; color:brown;}
+p{width:750px; color:white;}
+/*The next rule centers and spaces the media*/
+img, video, audio, canvas, p{
+    display: block; 
+    margin: 0 auto;
+    padding-bottom: 2em}
+.credits{font-size: 0.5em;
+    color: rgb(200,200,200);}
+
+
+
+
